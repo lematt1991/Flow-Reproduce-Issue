@@ -1,0 +1,23 @@
+{
+  "name": "flow-reproduce-issue",
+  "version": "1.0.0",
+  "description": "Repo to reproduce Flow issue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ml9951/Flow-Reproduce-Issue.git"
+  },
+  "author": "Matt Le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ml9951/Flow-Reproduce-Issue/issues"
+  },
+  "homepage": "https://github.com/ml9951/Flow-Reproduce-Issue#readme",
+  "devDependencies": {
+    "babel-plugin-transform-flow-strip-types": "^6.22.0",
+    "flow-bin": "^0.39.0"
+  }
+}
