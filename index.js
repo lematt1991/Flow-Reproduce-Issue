@@ -10,7 +10,7 @@ type ty = {
 
 function test(x : ty){
   if(x.c == null){
-    throw new Error('Erorr!')
+    throw new Error('Error!')
   }
   var temp = x.c.a;
   console.log('test')
